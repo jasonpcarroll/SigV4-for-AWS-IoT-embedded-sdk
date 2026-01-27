@@ -1,4 +1,12 @@
-# Changelog for AWS SigV4 Library
+# Change Log for AWS SigV4 Library
+
+## v1.3.1 (January 2026)
+
+### Changes
+- [#103](https://github.com/aws/SigV4-for-AWS-IoT-embedded-sdk/pull/103) Remove formatting bot workflow.
+- [#102](https://github.com/aws/SigV4-for-AWS-IoT-embedded-sdk/pull/102) Follow Security Guide to update YAML files.
+- [#101](https://github.com/aws/SigV4-for-AWS-IoT-embedded-sdk/pull/101) Update LTS 202406 information.
+
 
 ## v1.3.0 (May 2024)
 
